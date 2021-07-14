@@ -1,5 +1,5 @@
 # AndroidRealmSync
-Offilne first app with Realm and MongoAtlas (auto sync)
+Offilne first app with Realm and MongoAtlas (Auto Sync)
 
 Change "appId" in Application class and setup your MongoAtlas and Realm
 
